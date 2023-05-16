@@ -1,0 +1,5 @@
+1. git init : memasukkan git ke folder
+2. git config --global user.email "reyvirahman@gmail.com"
+   git config --global user.name "ReyviRahman"
+
+3. git commit -m "Menambahkan sebuah file" : mengupdate file ke github
