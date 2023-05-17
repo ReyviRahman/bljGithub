@@ -3,3 +3,7 @@
    git config --global user.name "ReyviRahman"
 
 3. git commit -m "Menambahkan sebuah file" : mengupdate file ke github
+
+urutan:
+git add .
+git commit -m "Menambahkan sebuah file"
